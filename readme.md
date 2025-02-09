@@ -31,7 +31,7 @@
 
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Albez0-An7h/Albez0-An7h/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Albez0-An7h/Albez0-An7h/output/github-contribution-grid-snake-dark.svg" />
 
 ###
 
