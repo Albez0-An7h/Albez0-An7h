@@ -31,7 +31,7 @@
 
 ###
 
-<img src="../workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Albez0-An7h/Albez0-An7h/output/snake.svg" alt="Snake animation" />
 
 ###
 
