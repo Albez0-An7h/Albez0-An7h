@@ -4,9 +4,6 @@
 
 <img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZtMHF0enYxNzkzd2djc3R2bGdxcDZtbzJ0M2FhcGcwcGFiZmg1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
-<br>
-<br>
-<br>
 
 ###
 
@@ -27,6 +24,9 @@
 ###
 
 <br clear="both">
+<br>
+<br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Albez0-An7h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
