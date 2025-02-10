@@ -4,6 +4,10 @@
 
 <img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZtMHF0enYxNzkzd2djc3R2bGdxcDZtbzJ0M2FhcGcwcGFiZmg1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
+<br>
+<br>
+<br>
+
 ###
 
 <div align="right">
@@ -21,8 +25,6 @@
 </div>
 
 ###
-
-<br>
 
 <br clear="both">
 
