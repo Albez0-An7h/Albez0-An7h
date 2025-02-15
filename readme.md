@@ -1,4 +1,4 @@
-<h2 align="left">💡 I want to be a  KNOW-IT-ALL 🧠</h2>
+<h1 align="left">💡 I want to be a  KNOW-IT-ALL 🧠</h1>
 
 ###
 
