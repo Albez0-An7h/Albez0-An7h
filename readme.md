@@ -129,7 +129,7 @@ const Albez0 = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'primaryTextColor':'#fff', 'secondaryTextColor':'#fff', 'tertiaryTextColor':'#fff', 'textColor':'#fff'}}}%%
 mindmap
   root((Ansh Kumar))
     Learning
