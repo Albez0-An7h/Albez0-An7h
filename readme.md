@@ -129,7 +129,7 @@ const ansh = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'darkMode':'true', 'primaryColor':'#bd93f9', 'primaryTextColor':'#f8f8f2', 'primaryBorderColor':'#6272a4', 'lineColor':'#8be9fd', 'secondaryColor':'#44475a', 'tertiaryColor':'#282a36', 'background':'#282a36', 'mainBkg':'#44475a', 'secondBkg':'#6272a4', 'textColor':'#f8f8f2', 'fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#bd93f9', 'primaryTextColor':'#f8f8f2', 'primaryBorderColor':'#bd93f9', 'lineColor':'#8be9fd', 'secondaryColor':'#ff79c6', 'secondaryTextColor':'#f8f8f2', 'secondaryBorderColor':'#ff79c6', 'tertiaryColor':'#50fa7b', 'tertiaryTextColor':'#282a36', 'tertiaryBorderColor':'#50fa7b', 'noteBkgColor':'#44475a', 'noteTextColor':'#f8f8f2', 'noteBorderColor':'#6272a4', 'background':'transparent', 'mainBkg':'#bd93f9', 'textColor':'#f8f8f2', 'fontSize':'16px'}}}%%
 mindmap
   root((Ansh Kumar))
     Learning
