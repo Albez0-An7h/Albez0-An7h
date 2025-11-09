@@ -2,7 +2,7 @@
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ansh%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ansh+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%9A%80;I+just+want+to+be+a+KNOW-IT-ALL+%F0%9F%A7%A0;Welcome+to+my+Digital+Space!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ansh+Kumar+%F0%9F%91%8B;Always+Learning%2C+Always+Growing+%F0%9F%9A%80;I+just+want+to+be+a+KNOW-IT-ALL+%F0%9F%A7%A0;Welcome+to+my+Digital+Space!+%E2%9C%A8;Let's+Code+Something+Amazing!+%F0%9F%92%AB" alt="Typing SVG" />
   
 </div>
 
@@ -11,22 +11,22 @@
 <h2 align="center">💡 About Me</h2>
 
 <div align="center">
-  <img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+  <img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ```typescript
 const ansh = {
     name: "Ansh Kumar",
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
+    role: "Software Developer",
+    location: "127.0.0.1 �",
     mindset: "KNOW-IT-ALL 🧠",
     pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Python"],
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
     technologies: {
-        frontend: ["React", "HTML5", "CSS3", "TailwindCSS"],
-        backend: ["Node.js", "Django", "Express"],
+        frontend: ["React", "TailwindCSS"],
+        backend: ["Node.js", "Express"],
         database: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "Linux", "VS Code", "Docker"],
+        tools: ["Git", "Linux", "VS Code"],
         learning: ["AI/ML", "Web3", "Cloud Computing", "DevOps"]
     },
     currentFocus: "Building impactful projects 🚀",
@@ -51,10 +51,10 @@ const ansh = {
 <div align="center">
 
 ```yaml
-🔭 I'm currently working on: Full Stack Web Applications
+🔭 I'm currently working on: Web Applications & Cool Projects
 🌱 I'm currently learning: Advanced TypeScript & System Design
 👯 I'm looking to collaborate on: Open Source Projects
-💬 Ask me about: JavaScript, React, Python, Django
+💬 Ask me about: JavaScript, React, Python, Java
 📫 How to reach me: LinkedIn or Discord
 ⚡ Fun fact: Code + Coffee = Magic ☕✨
 ```
@@ -68,23 +68,23 @@ const ansh = {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 
 ### Databases & Tools
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,git,github" />
 
 ### DevOps & Others
-<img src="https://skillicons.dev/icons?i=linux,docker,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=linux,vscode,figma,postman" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most+Used+Languages&align=center&titleAlign=center&lineCount=2&theme=dracula&line1=javascript,javascript,40;typescript,typescript,25;python,python,20;&line2=html,html,10;css,css,5;" alt="My Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most+Used+Languages&align=center&titleAlign=center&lineCount=2&theme=dracula&line1=javascript,javascript,35;typescript,typescript,30;python,python,20;&line2=java,java,15;" alt="My Tech Stack" />
 </div>
 
 ---
@@ -118,12 +118,14 @@ const ansh = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Albez0An7h&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&layout=compact" alt="Coding Time" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Albez0-An7h&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&layout=compact" alt="Coding Time" />
 </div>
 
 ---
 
-<h2 align="center">� Contribution Snake</h2>
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
   <picture>
@@ -135,11 +137,62 @@ const ansh = {
 
 ---
 
-<h2 align="center">💼 Projects & Highlights</h2>
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/ansh-kumar-723696305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/742213375651610726" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  ### 📬 Feel free to reach out for:
+  
+  🤝 Collaborations • 💡 Ideas • 🐛 Bug Reports • 🎯 Opportunities
+  
+</div>
+
+---
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Albez0-An7h&repo=Albez0-An7h&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2)](https://github.com/Albez0-An7h/Albez0-An7h)
+<h3>💭 Dev Quote</h3>
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)
+
+<h3>😂 Random Dev Meme</h3>
+
+<img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder" alt="Jokes Card" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📈 Profile Stats
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Albez0-An7h&style=flat-square&color=bd93f9&label=Profile+Views)
+![GitHub Stars](https://img.shields.io/github/stars/Albez0-An7h?style=flat-square&color=ff79c6&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/Albez0-An7h?style=flat-square&color=50fa7b&logo=github)
+
+</div>
+
+---
 
 </div>
 
@@ -235,10 +288,6 @@ mindmap
 ![Profile Views](https://komarev.com/ghpvc/?username=Albez0-An7h&style=flat-square&color=bd93f9&label=Profile+Views)
 ![GitHub Stars](https://img.shields.io/github/stars/Albez0-An7h?style=flat-square&color=ff79c6&logo=github)
 ![GitHub Followers](https://img.shields.io/github/followers/Albez0-An7h?style=flat-square&color=50fa7b&logo=github)
-
-<br>
-
-### ⭐ Show some love by starring my repositories!
 
 <br>
 
