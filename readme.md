@@ -17,7 +17,7 @@
 <h2 align="center">💡 About Me</h2>
 
 ```typescript
-const ansh = {
+const Albez0 = {
     name: "Ansh Kumar",
     role: "Software Developer",
     location: "127.0.0.1 🌐",
@@ -57,7 +57,7 @@ const ansh = {
 👯 I'm looking to collaborate on: Open Source Projects
 💬 Ask me about: JavaScript, React, Python, Java
 📫 How to reach me: LinkedIn or Discord
-⚡ Fun fact: actual asteroids in actual space named after Linux ✨
+⚡ Fun fact: Actual asteroids in actual space named after Linux ✨
 ```
 
 </div>
@@ -119,7 +119,7 @@ const ansh = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Albez0-An7h&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&layout=compact" alt="Coding Time" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Albez0An7h&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&layout=compact" alt="Coding Time" />
 </div>
 
 ---
@@ -129,7 +129,7 @@ const ansh = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#bd93f9', 'primaryTextColor':'#f8f8f2', 'primaryBorderColor':'#bd93f9', 'lineColor':'#8be9fd', 'secondaryColor':'#ff79c6', 'secondaryTextColor':'#f8f8f2', 'secondaryBorderColor':'#ff79c6', 'tertiaryColor':'#50fa7b', 'tertiaryTextColor':'#282a36', 'tertiaryBorderColor':'#50fa7b', 'noteBkgColor':'#44475a', 'noteTextColor':'#f8f8f2', 'noteBorderColor':'#6272a4', 'background':'transparent', 'mainBkg':'#bd93f9', 'textColor':'#f8f8f2', 'fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#3d4451', 'primaryTextColor':'#c5cdd9', 'primaryBorderColor':'#7c8db8', 'lineColor':'#6c7a96', 'secondaryColor':'#3d4451', 'secondaryTextColor':'#c5cdd9', 'secondaryBorderColor':'#9988bb', 'tertiaryColor':'#3d4451', 'tertiaryTextColor':'#c5cdd9', 'tertiaryBorderColor':'#7fa89f', 'noteBkgColor':'#3d4451', 'noteTextColor':'#c5cdd9', 'noteBorderColor':'#6c7a96', 'background':'#282a36', 'mainBkg':'#3d4451', 'textColor':'#c5cdd9', 'fontSize':'16px'}}}%%
 mindmap
   root((Ansh Kumar))
     Learning
