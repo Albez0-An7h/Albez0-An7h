@@ -124,6 +124,34 @@ const ansh = {
 
 ---
 
+<h2 align="center">🎯 Current Focus</h2>
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'darkMode':'true', 'primaryColor':'#bd93f9', 'primaryTextColor':'#f8f8f2', 'primaryBorderColor':'#6272a4', 'lineColor':'#8be9fd', 'secondaryColor':'#44475a', 'tertiaryColor':'#282a36', 'background':'#282a36', 'mainBkg':'#44475a', 'secondBkg':'#6272a4', 'textColor':'#f8f8f2', 'fontSize':'16px'}}}%%
+mindmap
+  root((Ansh Kumar))
+    Learning
+      System Design
+      Cloud Computing
+      AI/ML
+      Web3
+    Building
+      Full Stack Apps
+      Open Source
+      Side Projects
+    Goals
+      Contribute More
+      Learn Daily
+      Build Portfolio
+      Network
+```
+
+</div>
+
+---
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
