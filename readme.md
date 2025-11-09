@@ -129,7 +129,7 @@ const Albez0 = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#44475a', 'primaryTextColor':'#f8f8f2', 'primaryBorderColor':'#bd93f9', 'lineColor':'#bd93f9', 'secondaryColor':'#44475a', 'secondaryTextColor':'#f8f8f2', 'secondaryBorderColor':'#ff79c6', 'tertiaryColor':'#44475a', 'tertiaryTextColor':'#f8f8f2', 'tertiaryBorderColor':'#8be9fd', 'noteBkgColor':'#44475a', 'noteTextColor':'#f8f8f2', 'noteBorderColor':'#6272a4', 'background':'#282a36', 'mainBkg':'#44475a', 'textColor':'#f8f8f2', 'fontSize':'16px'}}}%%
+%%{init: {'theme':'dark'}}%%
 mindmap
   root((Ansh Kumar))
     Learning
