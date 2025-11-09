@@ -129,7 +129,7 @@ const Albez0 = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#3d4451', 'primaryTextColor':'#c5cdd9', 'primaryBorderColor':'#7c8db8', 'lineColor':'#6c7a96', 'secondaryColor':'#3d4451', 'secondaryTextColor':'#c5cdd9', 'secondaryBorderColor':'#9988bb', 'tertiaryColor':'#3d4451', 'tertiaryTextColor':'#c5cdd9', 'tertiaryBorderColor':'#7fa89f', 'noteBkgColor':'#3d4451', 'noteTextColor':'#c5cdd9', 'noteBorderColor':'#6c7a96', 'background':'#282a36', 'mainBkg':'#3d4451', 'textColor':'#c5cdd9', 'fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#44475a', 'primaryTextColor':'#f8f8f2', 'primaryBorderColor':'#bd93f9', 'lineColor':'#bd93f9', 'secondaryColor':'#44475a', 'secondaryTextColor':'#f8f8f2', 'secondaryBorderColor':'#ff79c6', 'tertiaryColor':'#44475a', 'tertiaryTextColor':'#f8f8f2', 'tertiaryBorderColor':'#8be9fd', 'noteBkgColor':'#44475a', 'noteTextColor':'#f8f8f2', 'noteBorderColor':'#6272a4', 'background':'#282a36', 'mainBkg':'#44475a', 'textColor':'#f8f8f2', 'fontSize':'16px'}}}%%
 mindmap
   root((Ansh Kumar))
     Learning
